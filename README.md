@@ -4,6 +4,8 @@ An end-to-end sales and customer behavior analysis of one week of Shopify transa
 
 Prepared by Sree Akanksha Munduri.
 
+🔗 **[View Live Dashboard](https://akanksha24604.github.io/Shopify-sales-analysis/)**
+
 ## 📁 Files in this repo
 
 | File | Description |
@@ -30,7 +32,10 @@ Prepared by Sree Akanksha Munduri.
 
 ## 🖥️ Viewing the Dashboard
 
-Download `Shopify_Sales_Dashboard.html` and open it in any browser — it includes interactive filters by product type and day of week, with clickable charts for cross-filtering.
+- **Live version:** [akanksha24604.github.io/Shopify-sales-analysis](https://akanksha24604.github.io/Shopify-sales-analysis/) — open directly, no download needed.
+- **Local version:** download `Shopify_Sales_Dashboard.html` and open it in any browser.
+
+Either way, it includes interactive filters by product type and day of week, with clickable charts for cross-filtering.
 
 ## 🛠️ Built With
 
